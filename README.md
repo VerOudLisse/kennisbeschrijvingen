@@ -52,7 +52,7 @@ Elke gepubliceerde versie krijgt een release met een eigen DOI via Zenodo. Verwi
 
 Gebruik de knop **Cite this repository** rechts op deze pagina, of:
 
-> Cultuur-Historische Vereniging Oud Lisse (2026). *Kennisbeschrijvingen historische bronnen Lisse* (versie 1.0). Zenodo. https://doi.org/[DOI]
+> Cultuur-Historische Vereniging Oud Lisse (2026). *Kennisbeschrijvingen historische bronnen Lisse* (versie 1.0). Zenodo. [![DOI](https://zenodo.org/badge/1443206942.svg)](https://doi.org/10.5281/zenodo.23893325)
 
 ## Licentie
 
