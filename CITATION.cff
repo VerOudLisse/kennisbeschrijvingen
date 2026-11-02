@@ -6,6 +6,7 @@ authors:
   - name: "Cultuur-Historische Vereniging Oud Lisse"
     website: "https://www.oudlisse.nl"
 version: "1.0"
+doi: 10.5281/zenodo.23893325
 date-released: "2026-11-02"
 license: CC-BY-4.0
 repository-code: "https://github.com/VerOudLisse/kennisbeschrijvingen"
@@ -25,4 +26,4 @@ keywords:
   - Abdij Leeuwenhorst
   - historische geografie
   - verkaveling
-  - bronnenkunde
+  - bronnenonderzoek
