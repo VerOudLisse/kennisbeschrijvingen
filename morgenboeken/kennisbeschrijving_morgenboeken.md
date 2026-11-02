@@ -1,6 +1,6 @@
 # Kennisbeschrijving morgenboeken
 
-*Cultuur-Historische Vereniging Oud Lisse · versie 1.0 · [datum]*
+*Cultuur-Historische Vereniging Oud Lisse · versie 1.0 · 2 november 2026*
 
 ## 1. Definitie
 
