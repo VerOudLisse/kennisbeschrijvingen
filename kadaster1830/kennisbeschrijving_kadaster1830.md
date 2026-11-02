@@ -1,6 +1,6 @@
 # Kennisbeschrijving geografie kadaster 1830
 
-*Cultuur-Historische Vereniging Oud Lisse · versie 1.0 · 28 oktober 2026*
+*Cultuur-Historische Vereniging Oud Lisse · versie 1.0 · 2 november 2026*
 
 ## 1. Definitie
 
