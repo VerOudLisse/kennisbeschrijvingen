@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Gebruik je deze kennisbeschrijvingen, verwijs dan naar deze bron."
+title: "Kennisbeschrijvingen historische bronnen Lisse"
+type: dataset
+authors:
+  - name: "Cultuur-Historische Vereniging Oud Lisse"
+    website: "https://www.oudlisse.nl"
+version: "1.0"
+date-released: "2026-11-01"
+license: CC-BY-4.0
+repository-code: "https://github.com/VerOudLisse/kennisbeschrijvingen"
+abstract: >-
+  Beschrijvingen van historische bronnen over grondbezit en verkaveling in het
+  ambacht Lisse (1544-1848): de schrikkeljaarmorgenboeken van Rijnland, de
+  transportregisters van het Gerecht van Lisse, de geografie van het kadaster
+  van 1830 en het Caertboek van de Abdij Leeuwenhorst. Opgesteld tijdens de
+  verkenning Pilot De Engel (LTR4), gefinancierd door Stichting Pica binnen
+  Verbonden digitaal erfgoed.
+keywords:
+  - Lisse
+  - morgenboeken
+  - transportregisters
+  - kadaster 1830
+  - Caertboek
+  - Abdij Leeuwenhorst
+  - historische geografie
+  - verkaveling
+  - bronnenkunde
